@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-morrigane/static/css/main.0f3918fa.css",
-    "main.js": "/Portfolio-morrigane/static/js/main.30b5e526.js",
+    "main.js": "/Portfolio-morrigane/static/js/main.e47c944b.js",
     "static/js/213.ed26599a.chunk.js": "/Portfolio-morrigane/static/js/213.ed26599a.chunk.js",
     "static/js/732.2ebdbaf6.chunk.js": "/Portfolio-morrigane/static/js/732.2ebdbaf6.chunk.js",
     "static/media/Kasa.png": "/Portfolio-morrigane/static/media/Kasa.40093768918d292fed2b.png",
@@ -20,12 +20,12 @@
     "static/media/envelope.png": "/Portfolio-morrigane/static/media/envelope.a01ce6ab2f21c82584c4.png",
     "index.html": "/Portfolio-morrigane/index.html",
     "main.0f3918fa.css.map": "/Portfolio-morrigane/static/css/main.0f3918fa.css.map",
-    "main.30b5e526.js.map": "/Portfolio-morrigane/static/js/main.30b5e526.js.map",
+    "main.e47c944b.js.map": "/Portfolio-morrigane/static/js/main.e47c944b.js.map",
     "213.ed26599a.chunk.js.map": "/Portfolio-morrigane/static/js/213.ed26599a.chunk.js.map",
     "732.2ebdbaf6.chunk.js.map": "/Portfolio-morrigane/static/js/732.2ebdbaf6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0f3918fa.css",
-    "static/js/main.30b5e526.js"
+    "static/js/main.e47c944b.js"
   ]
 }
